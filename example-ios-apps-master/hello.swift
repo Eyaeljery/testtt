@@ -8,7 +8,5 @@ print("test")
 print("Welcome to iOS World!")
 print("test")
 print("Welcome to iOS World!")
-print("test")
-print("Welcome to iOS World!")
-print("test")
+print("testtttt")
 
